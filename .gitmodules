@@ -1,3 +1,6 @@
 [submodule "apps/h4b-web-admin"]
 	path = apps/h4b-web-admin
 	url = git@github.com:h4b-dev/h4b-web-admin.git
+[submodule "apps/h4b-client-link"]
+	path = apps/h4b-client-link
+	url = git@github.com:h4b-dev/h4b-client-link.git
